@@ -16,4 +16,4 @@ print "total number of exact clones is",countC
 # we can generate a new window as i gets incremented(window size i have taken 10),
 #every time we check that if countL is equal to the window size then we increment 
 # countC(exactclone)
-#I googled but could not find anything related to this please try fixing it no
+#I googled but could not find anything related to this please try to fix it no
